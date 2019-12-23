@@ -11,8 +11,6 @@ How to use this script:
 5. In the project go up to Environment.robot and replace /path/path for the exact path of the Screenshots folder;
 
 
-To run the script execute in the command line:
+To run the script, execute following command line:
 
 robot --test "Buying an Item New User"    <Path of the PageObjectsFormat-AutomationPractice  folder>
-
-/Users/edgarwebster/PycharmProjects/robot
